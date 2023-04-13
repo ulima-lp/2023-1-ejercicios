@@ -7,6 +7,7 @@
 > ghc hello.hs
 > ./hello
 > ghci hello.hs
+> runghc hello.hs
 ````
 
 # main prompts
