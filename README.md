@@ -16,3 +16,4 @@
 - indicar 5 ejercicios básicos de haskell cuyos enunciados sean menores a 140 caracteres y puedan ser resueltos en menos de 3 minutos. Deben trabajar con listas
 - indicar 5 ejercicios básicos de haskell cuyos enunciados sean menores a 140 caracteres y puedan ser resueltos en menos de 3 minutos. Deben trabajar con listas, if sin recursividad
 - indicar 5 ejercicios básicos de haskell cuyos enunciados sean menores a 140 caracteres y puedan ser resueltos en menos de 3 minutos. Deben trabajar con pattern matching
+- indicar 5 ejercicios de haskell. Estos deben usar recursividad. Deben ser parecidos a la creación de un videojuego sencillo
