@@ -36,6 +36,7 @@ recetar_a(Medicamento, Enfermo) :-
   alivia(Medicamento, Enfermedad),
   enfermo_de(Enfermo, Enfermedad).
 
+%%% preguntas %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %l. Qué se le recetará a Manuel
 % recetar_a(M, manuel).
 %m. Qué se le recetará a Alicia
