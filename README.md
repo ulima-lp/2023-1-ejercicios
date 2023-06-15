@@ -8,6 +8,7 @@
 > ./hello
 > ghci hello.hs
 > runghc hello.hs
+> g++ -std=c++11 hello_rectangle.cpp -L. -llib/p8g++ -o main
 ````
 
 # main prompts
@@ -25,3 +26,5 @@
   ````
   - indicar 20 ejercicios de c++. Cada enunciado debe ser menor a 160 caracteres y puede ser resueltos en menos de 5 minutos. Deben ser básicos e interesantes para alumnos de pregrado. Generar enunciados que abarquen los temas: a) tipos de datos, b) bucles como for, while, do while, c) switch, d) arrays, e) structs 
 - indicar 5 ejercicios básicos de punteros que requieran definir funciones y primitivos. Cada enunciado debe ser menor a 160 caracteres y puede ser resueltos en menos de 5 minutos. 
+- indicar 10 ejercicios básicos de punteros que requieran definir funciones, arreglos y matrices. Cada enunciado debe ser menor a 160 caracteres y puede ser resueltos en menos de 5 minutos. Considerar usar rand(), int, char, string
+- lista de ejercicios usando c++ y clases
