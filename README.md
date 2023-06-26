@@ -28,3 +28,4 @@
 - indicar 5 ejercicios básicos de punteros que requieran definir funciones y primitivos. Cada enunciado debe ser menor a 160 caracteres y puede ser resueltos en menos de 5 minutos. 
 - indicar 10 ejercicios básicos de punteros que requieran definir funciones, arreglos y matrices. Cada enunciado debe ser menor a 160 caracteres y puede ser resueltos en menos de 5 minutos. Considerar usar rand(), int, char, string
 - lista de ejercicios usando c++ y clases
+- en base al código entre ``, generar 5 ejercicios de colas, y 5 ejercicios de pilas en c++. Cada enunciado debe ser menor a 160 caracteres y puede ser resueltos en menos de 5 minutos. Solo debe solicitarse modificar la clase MyQueue o MyStack indicando que se agreguen métodos. Ejemplo de un ejercicio, modificar el método print de MyStack pero que solo lo haga usando push y pop.
